@@ -2,7 +2,10 @@
 
 WELCOME TO GRADETRACKER!
 
-AUTHORS: Ra'ad Sweidan, Emrah Kinay, Jeph Francois
+AUTHORS:
+  Emrah Kinay (https://github.com/simulacrumus)
+  Jeph Francois (https://github.com/franic220)
+  Ra'ad Sweidan (https://github.com/RS-Coder95)
 APPLICATION NAME: GradeTracker
 VERSION: 1.0
 
